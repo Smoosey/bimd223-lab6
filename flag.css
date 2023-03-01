@@ -1,1 +1,35 @@
-/*# sourceMappingURL=flag.css.map */
+#flag_frame {
+  height: 200px;
+  width: 1000px;
+  background-color: #fff;
+}
+
+#flag {
+  width: 100%;
+  height: 100%;
+}
+
+#starcell {
+  background-color: #3c3b6e;
+  height: 15.3846153846px;
+  width: 337.5px;
+  vertical-align: top;
+}
+
+#stars {
+  font-size: 22.2222222222px;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.red_stripe {
+  height: 43.4782608696px;
+  background-color: #b22234;
+}
+
+.white_stripe {
+  height: 43.4782608696px;
+  background-color: white;
+}/*# sourceMappingURL=flag.css.map */
